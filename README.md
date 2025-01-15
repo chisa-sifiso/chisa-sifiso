@@ -1,62 +1,62 @@
-- 👋 Hi, I’m @chisa-sifiso
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm Sifiso Vinjwa!  
 
-<!---
-chisa-sifiso/chisa-sifiso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-## Personal Information:
-- **Name:** Sifiso Vinjwa
-- **Address:** 45 Peplos Avenue, Polokwane, Limpopo, 0699
-- **Phone:** +27-67-035-3898
-- **Email:** sifisovinjwa1@gmail.com
-- **LinkedIn:** [linkedin.com/in/sifiso-vinjwa-b24256279]
-- **Student Number:** 221455436
-- **Course:** Diploma in Computer Science
-- **Study Level:** 4th Year (Extended)
+![Banner](https://example.com/your-anime-graphic-banner) <!-- Replace with your own image URL -->
 
-## Synopsis:
-I am a final year Computer Science student at Tshwane University of Technology (TUT) with a passion for becoming a backend software developer. Proficient in Java, Python, and web development with Django, I also possess skills in database management, version control with Git, and creating user-friendly interfaces with JavaFX and Swing. I am adept at problem-solving, have a strong understanding of data structures, and am eager to apply my skills to exciting software projects and challenging problems in the field.
+---
 
-## Skills:
-- **Programming Languages:** Java, Python, Kotlin
-- **Development Environments:** Microsoft Office, NetBeans, Visual Studio Code, Git Bash, Notepad++, Sublime, Android Studio
-- **Software Development:** Git, Agile methodologies
-- **Front-End Technologies:** HTML, CSS, JavaScript, GUI development for Java and Python
-- **Back-End Frameworks:** Django, JEE (Java Enterprise Edition)
-- **Database Management:** Oracle Database, MySQL, SQLite
-- **Operating Systems:** Windows, Linux (Ubuntu, Debian)
-- **Terminal Proficiency:** Command-line navigation, shell scripting, package management
-- **Technical Skills:** Data structures, analytical and problem-solving skills
-- **Team Collaboration:** Collaborative work in team projects
-- **Communication:** Technical concepts communication to non-technical stakeholders
-- **Organizational Skills:** Detail-oriented, multitasking
+## About Me  
+🎓 **Final-Year Computer Science Student** at Tshwane University of Technology  
+💻 Passionate about **Backend Software Development**  
+🌟 Skilled in **Java, Python, Kotlin, Django**, and more!  
+🏆 Achievements:  
+- 🥇 Best Student in Computer Science for 3 consecutive years (2021-2023)  
+- 👨‍🏫 Mentor for Programming Modules in 2024  
+- 🏅 Certifications in Backend Development, Python, and Django  
 
-## Education:
-**Diploma in Computer Science**  
-Tshwane University of Technology, Polokwane  
-January 2021 – Current  
-Expected Graduation: April 2025  
-- Awards: Best Student in 1st Year Dip Com Science 2022, Best Student Dip Com Science in 2023
-- Guest Tutor 2023
-- Mentor for Programming Modules in 2024
+---
 
-## Online Certifications Issued by META:
-- Backend Software Development Certification
-- Python Certification
-- Version Control Certification
-- Databases for Back-End Development Certification
-- Django Web Framework Certification
+## 🔧 Technical Skills  
+### Programming Languages:  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
-## Activities:
-- Literature
-- Environmental conservation
-- Art
-- Video Games
-- Content Creation
-- Travel
+### Frameworks & Tools:  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 🌱 Current Learning  
+- **AWS Cloud Practitioner Certification**  
+- **Advanced Diploma in Computer Science (Distance Learning)**  
+
+---
+
+## 🌟 Featured Projects  
+- 🕵️‍♂️ **Face Recognition Attendance System**  
+- 💬 **Chat Application**  
+
+Check out my [GitHub Repositories](https://github.com/chisa-sifiso)!
+
+---
+
+## 🎨 Interests  
+- 🎮 Gaming  
+- ✈️ Traveling  
+- 🎨 Digital Art  
+- 🌿 Environmental Conservation  
+
+---
+
+## 📫 Let's Connect!  
+- **Email:** [sifisovinjwa1@gmail.com](mailto:sifisovinjwa1@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/sifiso-vinjwa](https://linkedin.com/in/sifiso-vinjwa)  
+- **GitHub:** [github.com/chisa-sifiso](https://github.com/chisa-sifiso)
+
+---
+
+![Footer](https://example.com/your-anime-themed-footer) <!-- Replace with your image URL -->
