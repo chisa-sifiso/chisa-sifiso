@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sifiso Vinjwa!  
 
-![Banner](https://example.com/your-anime-graphic-banner) <!-- Replace with your own image URL -->
+
 
 ---
 
