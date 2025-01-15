@@ -60,3 +60,15 @@ Check out my [GitHub Repositories](https://github.com/chisa-sifiso)!
 ---
 
 ![Footer](https://example.com/your-anime-themed-footer) <!-- Replace with your image URL -->
+
+---
+
+## 💡 Coming Soon: Animations  
+- **GIF Animations:** Use dynamic elements for your skills and featured projects!  
+   Example: 
+   ![GIF Animation Example](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)  
+- **SVG Animations:** Add interactive icons using [Lottie](https://lottiefiles.com/) or [SVGator](https://www.svgator.com/).  
+- **Activity Stats:** Integrate a dynamic contribution graph like this:  
+   ![Contribution Graph](https://github-readme-stats.vercel.app/api?username=chisa-sifiso&show_icons=true&theme=tokyonight)
+
+---
