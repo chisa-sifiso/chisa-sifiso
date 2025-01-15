@@ -57,11 +57,8 @@ Check out my [GitHub Repositories](https://github.com/chisa-sifiso)!
 - **LinkedIn:** [linkedin.com/in/sifiso-vinjwa](https://linkedin.com/in/sifiso-vinjwa)  
 - **GitHub:** [github.com/chisa-sifiso](https://github.com/chisa-sifiso)
 
----
 
-![Footer](https://example.com/your-anime-themed-footer) <!-- Replace with your image URL -->
 
----
 
 ## 💡 Coming Soon: Animations  
 - **GIF Animations:** Use dynamic elements for your skills and featured projects!  
