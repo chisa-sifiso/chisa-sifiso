@@ -5,7 +5,7 @@
 ---
 
 ## About Me  
-🎓 **Final-Year Computer Science Student** at Tshwane University of Technology  
+🎓 **Advance Dimploma Computer Science Student** at Tshwane University of Technology  
 💻 Passionate about **Backend Software Development**  
 🌟 Skilled in **Java, Python, Kotlin, Django**, and more!  
 🏆 Achievements:  
