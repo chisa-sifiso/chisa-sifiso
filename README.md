@@ -53,9 +53,12 @@ Check out my [GitHub Repositories](https://github.com/chisa-sifiso)!
 ---
 
 ## 📫 Let's Connect!  
+## 📫 Let's Connect!
+
 - **Email:** [sifisovinjwa1@gmail.com](mailto:sifisovinjwa1@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/sifiso-vinjwa](https://linkedin.com/in/sifiso-vinjwa)  
-- **GitHub:** [github.com/chisa-sifiso](https://github.com/chisa-sifiso)
+- **GitHub:** [github.com/chisa-sifiso](https://github.com/chisa-sifiso)  
+- **TikTok:** [@sifiso_chisa](https://www.tiktok.com/@sifiso_chisa?is_from_webapp=1&sender_device=pc)
 
 
 
