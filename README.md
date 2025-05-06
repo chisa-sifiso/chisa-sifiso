@@ -5,12 +5,16 @@
 ---
 
 ## About Me  
-🎓 **Advance Dimploma Computer Science Student** at Tshwane University of Technology  
+🎓 **Graduate in Dimploma Computer Science ** at Tshwane University of Technology
+🎓 **Advance Dimploma Computer Science Student** at Tshwane University of Technology
+
 💻 Passionate about **Backend Software Development**  
 🌟 Skilled in **Java, Python, Kotlin, Django**, and more!  
 🏆 Achievements:  
 - 🥇 Best Student in Computer Science for 3 consecutive years (2021-2023)  
-- 👨‍🏫 Mentor for Programming Modules in 2024  
+- 👨‍🏫 Mentor for Programming Modules in 2024
+- 👨‍🏫 Tutor for Programming Modules in 2025
+- 🏅 aws certified 
 - 🏅 Certifications in Backend Development, Python, and Django  
 
 ---
