@@ -1,21 +1,21 @@
 # 👋 Hi, I'm Sifiso Vinjwa!  
 
-
-
 ---
 
 ## About Me  
-🎓 **Graduate in Dimploma Computer Science ** at Tshwane University of Technology
-🎓 **Advance Dimploma Computer Science Student** at Tshwane University of Technology
+🎓 **Graduate in Diploma Computer Science** at Tshwane University of Technology  
+🎓 **Advanced Diploma Computer Science Student** at Tshwane University of Technology  
 
 💻 Passionate about **Backend Software Development**  
 🌟 Skilled in **Java, Python, Kotlin, Django**, and more!  
 🏆 Achievements:  
 - 🥇 Best Student in Computer Science for 3 consecutive years (2021-2023)  
-- 👨‍🏫 Mentor for Programming Modules in 2024
-- 👨‍🏫 Tutor for Programming Modules in 2025
-- 🏅 aws certified 
+- 👨‍🏫 Mentor for Programming Modules in 2024  
+- 👨‍🏫 Tutor for Programming Modules in 2025  
+- 🏅 AWS Certified  
 - 🏅 Certifications in Backend Development, Python, and Django  
+
+🌐 Check out my personal portfolio: [sifisovinjwaportfolio.co.za](https://sifisovinjwaportfolio.co.za/)
 
 ---
 
@@ -43,8 +43,9 @@
 ## 🌟 Featured Projects  
 - 🕵️‍♂️ **Face Recognition Attendance System**  
 - 💬 **Chat Application**  
+- 🌐 **Portfolio Website** → [sifisovinjwaportfolio.co.za](https://sifisovinjwaportfolio.co.za/)
 
-Check out my [GitHub Repositories](https://github.com/chisa-sifiso)!
+Check out more on my [GitHub Repositories](https://github.com/chisa-sifiso)!
 
 ---
 
@@ -57,20 +58,18 @@ Check out my [GitHub Repositories](https://github.com/chisa-sifiso)!
 ---
 
 ## 📫 Let's Connect!  
-## 📫 Let's Connect!
-
-- **Email:** [sifisovinjwa1@gmail.com](mailto:sifisovinjwa1@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/sifiso-vinjwa](https://linkedin.com/in/sifiso-vinjwa)  
-- **GitHub:** [github.com/chisa-sifiso](https://github.com/chisa-sifiso)  
-- **TikTok:** [@sifiso_chisa](https://www.tiktok.com/@sifiso_chisa?is_from_webapp=1&sender_device=pc)
-
-
-
-
-
-- **SVG Animations:** Add interactive icons using [Lottie](https://lottiefiles.com/) or [SVGator](https://www.svgator.com/).  
-- **Activity Stats:** Integrate a dynamic contribution graph like this:  
-   ![Contribution Graph](https://github-readme-stats.vercel.app/api?username=chisa-sifiso&show_icons=true&theme=tokyonight)
+- **📧 Email:** [sifisovinjwa1@gmail.com](mailto:sifisovinjwa1@gmail.com)  
+- **💼 LinkedIn:** [linkedin.com/in/sifiso-vinjwa](https://linkedin.com/in/sifiso-vinjwa)  
+- **🐱 GitHub:** [github.com/chisa-sifiso](https://github.com/chisa-sifiso)  
+- **🌐 Portfolio:** [sifisovinjwaportfolio.co.za](https://sifisovinjwaportfolio.co.za/)  
+- **🎵 TikTok:** [@sifiso_chisa](https://www.tiktok.com/@sifiso_chisa?is_from_webapp=1&sender_device=pc)
 
 ---
 
+## 📊 GitHub Activity  
+![Contribution Graph](https://github-readme-stats.vercel.app/api?username=chisa-sifiso&show_icons=true&theme=tokyonight)
+
+---
+
+## ✨ Extras  
+- **SVG Animations:** Use [Lottie](https://lottiefiles.com/) or [SVGator](https://www.svgator.com/) for interactive visuals.  
