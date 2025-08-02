@@ -71,5 +71,4 @@ Check out more on my [GitHub Repositories](https://github.com/chisa-sifiso)!
 
 ---
 
-## ✨ Extras  
-- **SVG Animations:** Use [Lottie](https://lottiefiles.com/) or [SVGator](https://www.svgator.com/) for interactive visuals.  
+ 
