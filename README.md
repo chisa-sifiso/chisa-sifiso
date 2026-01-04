@@ -1,74 +1,112 @@
-# 👋 Hi, I'm Sifiso Vinjwa!  
+# Hi, I'm Sifiso Vinjwa
+
+<p align="center">
+  <strong>
+    Java • Spring Boot • Kafka • MySQL • WebSockets • Spring AI • AWS • Docker
+  </strong>
+</p>
 
 ---
 
-## About Me  
-🎓 **Graduate in Diploma Computer Science** at Tshwane University of Technology  
-🎓 **Advanced Diploma Computer Science Student** at Tshwane University of Technology  
+## About Me
+I am a **Computer Science graduate** and an **Advanced Diploma (Postgraduate) Computer Science student** at **Tshwane University of Technology**, specialising in **Backend Software Development**.
 
-💻 Passionate about **Backend Software Development**  
-🌟 Skilled in **Java, Python, Kotlin, Django**, and more!  
-🏆 Achievements:  
-- 🥇 Best Student in Computer Science for 3 consecutive years (2021-2023)  
-- 👨‍🏫 Mentor for Programming Modules in 2024  
-- 👨‍🏫 Tutor for Programming Modules in 2025  
-- 🏅 AWS Certified  
-- 🏅 Certifications in Backend Development, Python, and Django  
+My primary focus is on building **scalable, production-ready backend systems** using **Java and Spring Boot**, with a strong interest in **event-driven architectures, real-time communication, and cloud-native systems**.
 
-🌐 Check out my personal portfolio: [sifisovinjwaportfolio.co.za](https://sifisovinjwaportfolio.co.za/)
+Portfolio:  
+https://sifisovinjwaportfolio.co.za
 
 ---
 
-## 🔧 Technical Skills  
-### Programming Languages:  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-
-### Frameworks & Tools:  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+## Core Focus Areas
+- Java & Spring Boot  
+- Apache Kafka (Event-Driven Architecture)  
+- SQL Databases (MySQL)  
+- WebSockets (Real-Time Communication)  
+- Spring AI  
+- AWS (EC2, S3, IAM, Lambda)  
+- Docker  
 
 ---
 
-## 🌱 Current Learning  
-- **AWS Cloud Practitioner Certification**  
-- **Advanced Diploma in Computer Science (Distance Learning)**  
+## Education
+- **Diploma in Computer Science** – Completed  
+- **Advanced Diploma in Computer Science (Postgraduate)** – In Progress (Distance Learning)  
 
 ---
 
-## 🌟 Featured Projects  
-- 🕵️‍♂️ **Face Recognition Attendance System**  
-- 💬 **Chat Application**  
-- 🌐 **Portfolio Website** → [sifisovinjwaportfolio.co.za](https://sifisovinjwaportfolio.co.za/)
-
-Check out more on my [GitHub Repositories](https://github.com/chisa-sifiso)!
-
----
-
-## 🎨 Interests  
-- 🎮 Gaming  
-- ✈️ Traveling  
-- 🎨 Digital Art  
-- 🌿 Environmental Conservation  
+## Achievements & Experience
+- Best Student in Computer Science (2021–2023)  
+- Programming Modules Mentor (2024)  
+- Programming Modules Tutor (2025)  
+- AWS Certified  
+- Certifications in Backend Development, Python, and Django  
 
 ---
 
-## 📫 Let's Connect!  
-- **📧 Email:** [sifisovinjwa1@gmail.com](mailto:sifisovinjwa1@gmail.com)  
-- **💼 LinkedIn:** [linkedin.com/in/sifiso-vinjwa](https://linkedin.com/in/sifiso-vinjwa)  
-- **🐱 GitHub:** [github.com/chisa-sifiso](https://github.com/chisa-sifiso)  
-- **🌐 Portfolio:** [sifisovinjwaportfolio.co.za](https://sifisovinjwaportfolio.co.za/)  
-- **🎵 TikTok:** [@sifiso_chisa](https://www.tiktok.com/@sifiso_chisa?is_from_webapp=1&sender_device=pc)
+## Technical Skills
+
+### Programming Languages
+- Java  
+- Python  
+- Kotlin  
+
+### Backend & Frameworks
+- Spring Boot  
+- Spring Data JPA  
+- REST APIs  
+- WebSockets  
+- Spring AI  
+- Django  
+
+### Databases
+- MySQL  
+- Oracle  
+- H2  
+
+### Messaging & Streaming
+- Apache Kafka  
+
+### Cloud & DevOps
+- AWS  
+- Docker  
+- Git & GitHub  
+
+### Frontend (Supporting)
+- React  
 
 ---
 
-## 📊 GitHub Activity  
-![Contribution Graph](https://github-readme-stats.vercel.app/api?username=chisa-sifiso&show_icons=true&theme=tokyonight)
+## Featured Projects
+- **Face Recognition Attendance System**  
+  Backend-driven attendance automation system.
+
+- **Real-Time Chat Application**  
+  Built using WebSockets for real-time communication.
+
+- **Personal Portfolio Website**  
+  https://sifisovinjwaportfolio.co.za
+
+More projects:  
+https://github.com/chisa-sifiso
 
 ---
 
- 
+## Currently Learning
+- Advanced Spring Boot and Microservices  
+- Kafka for distributed systems  
+- Docker and cloud-native backend design  
+- AWS Cloud Practitioner and Developer concepts  
+
+---
+
+## Contact
+- Email: sifisovinjwa1@gmail.com  
+- LinkedIn: https://linkedin.com/in/sifiso-vinjwa  
+- GitHub: https://github.com/chisa-sifiso  
+- Portfolio: https://sifisovinjwaportfolio.co.za  
+
+---
+
+## GitHub Activity
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chisa-sifiso&show_icons=true&theme=tokyonight)
