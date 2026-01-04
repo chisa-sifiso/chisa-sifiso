@@ -92,7 +92,4 @@ https://github.com/chisa-sifiso
 - GitHub: https://github.com/chisa-sifiso  
 - Portfolio: https://sifisovinjwaportfolio.co.za  
 
----
 
-## GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chisa-sifiso&show_icons=true&theme=tokyonight)
