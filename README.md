@@ -11,21 +11,40 @@
 ## About Me
 I am a **Computer Science graduate** and an **Advanced Diploma (Postgraduate) Computer Science student** at **Tshwane University of Technology**, specialising in **Backend Software Development**.
 
-My primary focus is on building **scalable, production-ready backend systems** using **Java and Spring Boot**, with a strong interest in **event-driven architectures, real-time communication, and cloud-native systems**.
+My primary focus is on building **scalable, production-ready backend systems** using **Java and Spring Boot**, with strong interest in **event-driven architectures, real-time communication, and cloud-native systems**.
 
 Portfolio:  
 https://sifisovinjwaportfolio.co.za
 
 ---
 
+## Tech Stack
+
+### Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,kafka,mysql,postgres,mongodb" />
+</p>
+
+### Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,githubactions" />
+</p>
+
+### Frontend (Supporting)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css" />
+</p>
+
+---
+
 ## Core Focus Areas
-- Java & Spring Boot  
-- Apache Kafka (Event-Driven Architecture)  
-- SQL Databases (MySQL)  
-- WebSockets (Real-Time Communication)  
-- Spring AI  
-- AWS (EC2, S3, IAM, Lambda)  
-- Docker  
+- Java & Spring Boot backend development  
+- Event-driven systems using Apache Kafka  
+- SQL database design and optimisation (MySQL)  
+- Real-time communication with WebSockets  
+- AI-powered backend features using Spring AI  
+- Cloud-native development on AWS  
+- Containerised applications with Docker  
 
 ---
 
@@ -41,39 +60,6 @@ https://sifisovinjwaportfolio.co.za
 - Programming Modules Tutor (2025)  
 - AWS Certified  
 - Certifications in Backend Development, Python, and Django  
-
----
-
-## Technical Skills
-
-### Programming Languages
-- Java  
-- Python  
-- Kotlin  
-
-### Backend & Frameworks
-- Spring Boot  
-- Spring Data JPA  
-- REST APIs  
-- WebSockets  
-- Spring AI  
-- Django  
-
-### Databases
-- MySQL  
-- Oracle  
-- H2  
-
-### Messaging & Streaming
-- Apache Kafka  
-
-### Cloud & DevOps
-- AWS  
-- Docker  
-- Git & GitHub  
-
-### Frontend (Supporting)
-- React  
 
 ---
 
@@ -93,10 +79,10 @@ https://github.com/chisa-sifiso
 ---
 
 ## Currently Learning
-- Advanced Spring Boot and Microservices  
-- Kafka for distributed systems  
-- Docker and cloud-native backend design  
-- AWS Cloud Practitioner and Developer concepts  
+- Advanced Spring Boot & microservices patterns  
+- Kafka for distributed and event-driven systems  
+- Docker & cloud-native backend design  
+- AWS Developer-level concepts  
 
 ---
 
